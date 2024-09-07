@@ -1,0 +1,1 @@
+thought it would be fun to learn go. don't really have a purpose for it at the moment, so this will probably just be a thing that randomly gets added to over time.
