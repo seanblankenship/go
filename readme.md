@@ -1,1 +1,5 @@
-thought it would be fun to learn go. don't really have a purpose for it at the moment, so this will probably just be a thing that randomly gets added to over time.
+# Adventures in Learning Go
+
+Wanted to learn a new language and settled on Go. This is just an attempt to document all of it. 
+
+Following along with https://quii.gitbook.io/learn-go-with-tests and anything else I happen to find along the way.
